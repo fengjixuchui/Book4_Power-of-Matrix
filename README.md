@@ -1,4 +1,12 @@
-# Book4_Power-of-Matrix
-# 7册中的第4册：《矩阵力量》 |  鸢尾花书：从加减乘除到机器学习
-书稿持续更新，注意下载最新版本！
-本PDF文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。 版权归清华大学出版社所有，请勿商用，引用请注明出处。 代码及PDF文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
+《统计至简》五折入口：
+https://zhuanlan.zhihu.com/p/634253719
+<br>
+《数学要素》五折入口：
+https://zhuanlan.zhihu.com/p/620243026
+<br>
+《矩阵力量》五折入口：
+https://zhuanlan.zhihu.com/p/634253719
+
+看个人情况，开源资源，永久有效哈。
+
+纠错多的同学会得到赠书，以示感谢。
